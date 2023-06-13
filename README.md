@@ -1,7 +1,7 @@
 # Gerador-de-classes
 
 ## Sobre
-Bem-vindo ao Gerador de Classes, um projeto autoral desenvolvido para a linguagem de programação C#.
+Bem-vindo ao Gerador de Classes, um projeto autoral desenvolvido utilizando a linguagem de programação C#.
 
 ## Visão Geral
 Este software permite a criação rápida e fácil de classes em C#. Com apenas alguns cliques, você poderá gerar o esqueleto de uma classe com propriedades e métodos. O programa oferece opções de configuração, como o nome da classe, o modificador de acesso e o estilo de implementação dos setters e getters.
